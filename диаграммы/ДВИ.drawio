@@ -1,0 +1,235 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0">
+  <diagram name="Страница-1" id="4KEhcg9-5F2oZYNZq411">
+    <mxGraphModel dx="2190" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-38" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=ISOCPEUR;" value="&lt;span style=&quot;line-height: 115%; color: windowtext;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Управляющий туристической&lt;br&gt;компании&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="1" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=ISOCPEUR;fontSize=11;" target="ofWvbSkYyObnkBeDZlJy-40" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="719" as="sourcePoint" />
+            <mxPoint x="242.5" y="636.6299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Просмотр графика поездок" vertex="1">
+          <mxGeometry height="30" width="130" x="329" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ofWvbSkYyObnkBeDZlJy-97" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="719" as="sourcePoint" />
+            <mxPoint x="240" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="ofWvbSkYyObnkBeDZlJy-104" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="164" y="720" as="sourcePoint" />
+            <mxPoint x="509.00999999999806" y="610.0030139631518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-97" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;Просмотр всех поездок&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="404.99" y="460.00301396315183" as="geometry" />
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-104" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;Управление турагентами&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext; line-height: 13.8px;&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="560" y="595.0030139631518" as="geometry" />
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-118" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=16;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="691" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="ofWvbSkYyObnkBeDZlJy-119" edge="1" parent="1" source="ofWvbSkYyObnkBeDZlJy-104" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="596" y="623.0020896823594" as="sourcePoint" />
+            <mxPoint x="626" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXg-8WjvnfpCinnv39HX-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="44" y="719" as="sourcePoint" />
+            <mxPoint x="164" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXg-8WjvnfpCinnv39HX-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="720" as="sourcePoint" />
+            <mxPoint x="269" y="1041" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="164" y="719" as="sourcePoint" />
+            <mxPoint x="285" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;Просмотр предстоящих поездок&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="490.99" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="164" y="719" as="sourcePoint" />
+            <mxPoint x="310" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;Просмотр прошедших поездок&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="531.99" y="547" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Добавление турагента" vertex="1">
+          <mxGeometry height="30" width="130" x="761.01" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-7" edge="1" parent="1" source="ofWvbSkYyObnkBeDZlJy-104" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="700.01" y="620" as="sourcePoint" />
+            <mxPoint x="749.01" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Редактирование турагента" vertex="1">
+          <mxGeometry height="30" width="130" x="780.01" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-9" edge="1" parent="1" source="ofWvbSkYyObnkBeDZlJy-104" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="706.01" y="660" as="sourcePoint" />
+            <mxPoint x="746.01" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Удаление турагента" vertex="1">
+          <mxGeometry height="30" width="130" x="776.01" y="637" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=339;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="669.01" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-13" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=359;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="695.008994422855" y="591.9986824990575" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=16;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="693" y="742" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-15" edge="1" parent="1" source="8MAGVUWltGUe-Uk507vo-23" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="692.01" y="737.0020896823594" as="sourcePoint" />
+            <mxPoint x="722.01" y="697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Добавление тургруппы" vertex="1">
+          <mxGeometry height="30" width="130" x="763.01" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-17" edge="1" parent="1" source="8MAGVUWltGUe-Uk507vo-23" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="702.01" y="747" as="sourcePoint" />
+            <mxPoint x="751.01" y="737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Редактирование тургруппы" vertex="1">
+          <mxGeometry height="30" width="130" x="782.01" y="722" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-19" edge="1" parent="1" source="8MAGVUWltGUe-Uk507vo-23" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="702.01" y="787" as="sourcePoint" />
+            <mxPoint x="742.01" y="767" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Удаление тургруппы" vertex="1">
+          <mxGeometry height="30" width="130" x="778.01" y="764" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-21" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=359;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="697.008994422855" y="713.9986824990575" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-22" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=339;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="671.01" y="692" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;Управление тургруппами&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext; line-height: 13.8px;&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="565.99" y="715.0030139631518" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="8MAGVUWltGUe-Uk507vo-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="720" as="sourcePoint" />
+            <mxPoint x="514" y="733.0030139631517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-25" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=16;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="679.98" y="871" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-26" edge="1" parent="1" source="8MAGVUWltGUe-Uk507vo-34" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="678.99" y="862.0020896823594" as="sourcePoint" />
+            <mxPoint x="708.99" y="822" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Добавление поездки" vertex="1">
+          <mxGeometry height="30" width="130" x="749.99" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-28" edge="1" parent="1" source="8MAGVUWltGUe-Uk507vo-34" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="688.99" y="872" as="sourcePoint" />
+            <mxPoint x="737.99" y="862" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Редактирование поездки" vertex="1">
+          <mxGeometry height="30" width="130" x="768.99" y="847" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-30" edge="1" parent="1" source="8MAGVUWltGUe-Uk507vo-34" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=ISOCPEUR;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="688.99" y="912" as="sourcePoint" />
+            <mxPoint x="728.99" y="892" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Удаление поездки" vertex="1">
+          <mxGeometry height="30" width="130" x="764.99" y="889" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-32" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=359;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="683.9889944228551" y="843.9986824990575" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-33" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=2;spacingBottom=0;spacingTop=0;rotation=339;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="657.99" y="817" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="&lt;font&gt;Управление графиком поездок&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext; line-height: 13.8px;&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="548.98" y="847.0030139631518" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="8MAGVUWltGUe-Uk507vo-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="720" as="sourcePoint" />
+            <mxPoint x="336.9899999999991" y="1003.993013963152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Проверка виз" vertex="1">
+          <mxGeometry height="30" width="130" x="490.99" y="886" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-84" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="720" as="sourcePoint" />
+            <mxPoint x="319" y="952" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-82" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-83" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="720" as="sourcePoint" />
+            <mxPoint x="447" y="994.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-83" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Поиск и фильтрация" vertex="1">
+          <mxGeometry height="30" width="130" x="418.98" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Экспорт в CSV" vertex="1">
+          <mxGeometry height="30" width="130" x="341" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-85" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-87" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="720" as="sourcePoint" />
+            <mxPoint x="283" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-87" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Загрузка данных" vertex="1">
+          <mxGeometry height="30" width="130" x="274.99" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-88" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=ISOCPEUR;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MAGVUWltGUe-Uk507vo-90" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="163" y="720" as="sourcePoint" />
+            <mxPoint x="313" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MAGVUWltGUe-Uk507vo-90" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=11;" value="Сброс данных" vertex="1">
+          <mxGeometry height="30" width="130" x="291.98" y="1003" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
