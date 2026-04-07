@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TourCompany>
+  <Agents>
+    <Agent fullName="Иванова Анна Петровна" insuranceNumber="СТР-001-2024" inn="123456789012" passport="4510 123456" visaExpiry="2026-10-17" />
+    <Agent fullName="Петров Сергей Иванович" insuranceNumber="СТР-002-2024" inn="234567890123" passport="4510 234567" visaExpiry="2025-10-15" />
+    <Agent fullName="Сидорова Елена Владимировна" insuranceNumber="СТР-003-2024" inn="345678901234" passport="4510 345678" visaExpiry="2026-01-20" />
+    <Agent fullName="Козлов Дмитрий Алексеевич" insuranceNumber="СТР-004-2024" inn="456789012345" passport="4510 456789" visaExpiry="2028-06-30" />
+    <Agent fullName="Морозова Татьяна Николаевна" insuranceNumber="СТР-005-2024" inn="567890123456" passport="4510 567890" visaExpiry="2026-03-05" />
+    <Agent fullName="Куприян Анатолий Иванович" insuranceNumber="38290382093820983" inn="126832738131893" passport="4883903 3923" visaExpiry="2028-06-23" />
+  </Agents>
+  <Groups>
+    <Group number="ГР-001" peopleCount="15" ageCategory="Взрослая (18-65)" />
+    <Group number="ГР-002" peopleCount="8" ageCategory="Семейная с детьми" />
+    <Group number="ГР-003" peopleCount="12" ageCategory="Молодежная (18-35)" />
+    <Group number="ГР-004" peopleCount="20" ageCategory="Взрослая (18-65)" />
+    <Group number="ГР-005" peopleCount="6" ageCategory="Пенсионная (65+)" />
+    <Group number="ГР-006" peopleCount="10" ageCategory="Семейная с детьми" />
+    <Group number="ГР-007" peopleCount="14" ageCategory="Молодежная (18-35)" />
+    <Group number="ГР-008" peopleCount="9" ageCategory="Взрослая (18-65)" />
+    <Group number="ГР-009" peopleCount="4" ageCategory="Пенсионная (65+)" />
+  </Groups>
+  <Schedule>
+    <Trip agentName="Иванова Анна Петровна" groupNumber="ГР-001" date="2024-06-10" contractNumber="Д-001-2024" tripDuration="7" />
+    <Trip agentName="Петров Сергей Иванович" groupNumber="ГР-002" date="2024-06-15" contractNumber="Д-002-2024" tripDuration="5" />
+    <Trip agentName="Сидорова Елена Владимировна" groupNumber="ГР-003" date="2024-06-20" contractNumber="Д-003-2024" tripDuration="10" />
+    <Trip agentName="Козлов Дмитрий Алексеевич" groupNumber="ГР-004" date="2024-07-01" contractNumber="Д-004-2024" tripDuration="14" />
+    <Trip agentName="Морозова Татьяна Николаевна" groupNumber="ГР-005" date="2024-07-05" contractNumber="Д-005-2024" tripDuration="8" />
+    <Trip agentName="Иванова Анна Петровна" groupNumber="ГР-006" date="2024-07-15" contractNumber="Д-006-2024" tripDuration="6" />
+    <Trip agentName="Петров Сергей Иванович" groupNumber="ГР-007" date="2024-08-01" contractNumber="Д-007-2024" tripDuration="12" />
+    <Trip agentName="Сидорова Елена Владимировна" groupNumber="ГР-008" date="2024-08-10" contractNumber="Д-008-2024" tripDuration="9" />
+    <Trip agentName="Козлов Дмитрий Алексеевич" groupNumber="ГР-001" date="2024-09-05" contractNumber="Д-009-2024" tripDuration="7" />
+    <Trip agentName="Морозова Татьяна Николаевна" groupNumber="ГР-003" date="2024-09-15" contractNumber="Д-010-2024" tripDuration="10" />
+    <Trip agentName="Куприян Анатолий Иванович" groupNumber="ГР-008" date="2026-08-23" contractNumber="Д-009-09" tripDuration="6" />
+  </Schedule>
+</TourCompany>

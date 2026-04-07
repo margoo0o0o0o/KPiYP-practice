@@ -1,0 +1,99 @@
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.AssemblyReference.cache
+F:\TouristVoucher\TouristVoucher\obj\Debug\MainWindow.baml
+F:\TouristVoucher\TouristVoucher\obj\Debug\MainWindow.g.cs
+F:\TouristVoucher\TouristVoucher\obj\Debug\App.g.cs
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher_MarkupCompile.cache
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.g.resources
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.Properties.Resources.resources
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.GenerateResource.cache
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.CoreCompileInputs.cache
+F:\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.exe.config
+F:\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.exe
+F:\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.pdb
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.exe
+F:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.pdb
+E:\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.exe.config
+E:\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.exe
+E:\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.pdb
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.AssemblyReference.cache
+E:\TouristVoucher\TouristVoucher\obj\Debug\MainWindow.baml
+E:\TouristVoucher\TouristVoucher\obj\Debug\MainWindow.g.cs
+E:\TouristVoucher\TouristVoucher\obj\Debug\App.g.cs
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher_MarkupCompile.cache
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.g.resources
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.Properties.Resources.resources
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.GenerateResource.cache
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.CoreCompileInputs.cache
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.exe
+E:\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.pdb
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.exe.config
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.exe
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\bin\Debug\TouristVoucher.pdb
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.AssemblyReference.cache
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\MainWindow.baml
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\MainWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\App.g.cs
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher_MarkupCompile.cache
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.g.resources
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.Properties.Resources.resources
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.GenerateResource.cache
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.csproj.CoreCompileInputs.cache
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.exe
+D:\3 курс\практика с#\TouristVoucher\TouristVoucher\obj\Debug\TouristVoucher.pdb
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher.csproj.AssemblyReference.cache
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\MainWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\MainWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\App.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher_MarkupCompile.cache
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher.g.resources
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher.Properties.Resources.resources
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher.csproj.GenerateResource.cache
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher.csproj.CoreCompileInputs.cache
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher.exe
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TouristVoucher.pdb
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\AgentEditWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\AgentsWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\AgentEditWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\AgentsWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\GroupEditWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\GroupsWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TripEditWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TripsWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\GroupEditWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\GroupsWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TripEditWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\obj\Debug\TripsWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\bin\Debug\TouristVoucher.exe.config
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\bin\Debug\TouristVoucher.exe
+D:\3 курс\практика с#\TouristVoucher — доделка\TouristVoucher\bin\Debug\TouristVoucher.pdb
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\bin\Debug\TouristVoucher.exe.config
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\bin\Debug\TouristVoucher.exe
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\bin\Debug\TouristVoucher.pdb
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher.csproj.AssemblyReference.cache
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\AgentEditWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\AgentsWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\ChartWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\GroupEditWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\GroupsWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\MainWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TripEditWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TripsWindow.baml
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\AgentEditWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\AgentsWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\ChartWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\GroupEditWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\GroupsWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\MainWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TripEditWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TripsWindow.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\App.g.cs
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher_MarkupCompile.cache
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher.g.resources
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher.Properties.Resources.resources
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher.csproj.GenerateResource.cache
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher.csproj.CoreCompileInputs.cache
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristV.DDAEF61B.Up2Date
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher.exe
+D:\3 курс\практика с#\TouristVoucher — доделка — копия\TouristVoucher\obj\Debug\TouristVoucher.pdb
